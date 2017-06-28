@@ -1,6 +1,10 @@
 Falcon |Docs| |Build Status| |codecov.io|
 =========================================
 
+.. image:: https://badges.gitter.im/falconframework/Lobby.svg
+   :alt: Join the chat at https://gitter.im/falconframework/Lobby
+   :target: https://gitter.im/falconframework/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
     Perfection is finally attained not when there is no longer anything
     to add, but when there is no longer anything to take away.
 
